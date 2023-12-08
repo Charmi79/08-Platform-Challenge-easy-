@@ -1,4 +1,4 @@
-// Circle Collide Challenge (hard)
+// Platform Challenge (easy)
 
 // Setup Canvas and Graphics Context
 let cnv = document.getElementById("myCanvas");
